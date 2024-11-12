@@ -1,5 +1,6 @@
 
 Corpus Composition
+
 This corpus consists of 4 translated English leading cases from Mainland China, with a total of 32,757 words.
 
 Source: PKULAW
