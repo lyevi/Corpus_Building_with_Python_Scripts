@@ -2,7 +2,7 @@
 
 ## 1. Corpus Composition
 
-This corpus consists of 4 translated English leading cases from Mainland China, with a total of 32,757 words.
+This corpus consists of 4 English translations of guiding cases from Mainland China.
 
 - **Source**: PKULAW
 - **Files and Word Counts**:
@@ -10,6 +10,7 @@ This corpus consists of 4 translated English leading cases from Mainland China, 
   - `guiding_case_no_217_en`: 13,908 words
   - `guiding_case_no_224_en`: 5,422 words
   - `guiding_case_no_229_en`: 3,649 words
+  - total: 32,757 words
 
 ## 2. Batch Rename of DOC Files — Python Script
 
