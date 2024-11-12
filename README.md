@@ -1,24 +1,30 @@
 
 1. Corpus Composition
 This corpus consists of 4 English leading cases from Mainland China, with a total of 32,757 words.
+
 Source: PKULAW
+
 Files and Word Counts：
+
 guiding_case_no_215_en: 9,778 words
+
 guiding_case_no_217_en: 13,908 words
+
 guiding_case_no_224_en: 5,422 words
+
 guiding_case_no_229_en: 3,649 words
 
 
-2. Batch Rename of DOC Files — Python Script
+3. Batch Rename of DOC Files — Python Script
 Example:
 Original Title: Guiding Case No. 215: People v. Kunming Min [REDACTED] Paper Co., Ltd. et al. (case of civil public interest litigation... (FBM-CLI.C.546010142(EN))
 Renamed as: guiding_case_no_215_en
 
-3. Batch Convert DOC Files to TXT Format — Python Script
+4. Batch Convert DOC Files to TXT Format — Python Script
    
-4. Batch Clean TXT Files — Python Script
+5. Batch Clean TXT Files — Python Script
  
-5. Batch Clean TXT Files — EmEditor "Batch Replace Text" Function
+6. Batch Clean TXT Files — EmEditor "Batch Replace Text" Function
 *EmEditor Regular Expressions Based on Perl Language
 
 Specific Regular Expressions:
