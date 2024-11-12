@@ -40,6 +40,7 @@ After editing, save changes to the batch. Use Ctrl + Z to undo and test any new 
 Export the batch for reuse.
 
 6. Multi-Dimensional Analysis Tool (MAT)
+   
 Tag Function:
 Texts tagged with Stanford will appear in folders named ST_name_of_folder or ST_name_of_file.
 Texts tagged with MAT will appear in folders named MAT_name_of_folder or MAT_name_of_text.
