@@ -15,8 +15,10 @@ guiding_case_no_224_en: 5,422 words
 guiding_case_no_229_en: 3,649 words
 
 
-3. Batch Rename of DOC Files — Python Script
+2. Batch Rename of DOC Files — Python Script
+   
 Example:
+
 Original Title: Guiding Case No. 215: People v. Kunming Min [REDACTED] Paper Co., Ltd. et al. (case of civil public interest litigation... (FBM-CLI.C.546010142(EN))
 Renamed as: guiding_case_no_215_en
 
