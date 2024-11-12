@@ -23,12 +23,12 @@ Original Title: Guiding Case No. 215: People v. Kunming Min [REDACTED] Paper Co.
 
 Renamed as: guiding_case_no_215_en
 
-4. Batch Convert DOC Files to TXT Format — Python Script
+3. Batch Convert DOC Files to TXT Format — Python Script
    
-5. Batch Clean TXT Files — Python Script
+4. Batch Clean TXT Files — Python Script
  
-6. Batch Clean TXT Files — EmEditor "Batch Replace Text" Function
-7. 
+5. Batch Clean TXT Files — EmEditor "Batch Replace Text" Function
+ 
 *EmEditor Regular Expressions Based on Perl Language
 
 Instructions:
@@ -46,5 +46,3 @@ Texts tagged with MAT will appear in folders named MAT_name_of_folder or MAT_nam
 
 Analyze Function:
 Generates a "Statistics" folder, including comparison charts and statistical data that contrast the linguistic features across 6 dimensions for Mainland China's leading cases and Biber's oral and written genres.
-
-7.
