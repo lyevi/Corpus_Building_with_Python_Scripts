@@ -20,6 +20,7 @@ guiding_case_no_229_en: 3,649 words
 Example:
 
 Original Title: Guiding Case No. 215: People v. Kunming Min [REDACTED] Paper Co., Ltd. et al. (case of civil public interest litigation... (FBM-CLI.C.546010142(EN))
+
 Renamed as: guiding_case_no_215_en
 
 4. Batch Convert DOC Files to TXT Format — Python Script
@@ -27,18 +28,8 @@ Renamed as: guiding_case_no_215_en
 5. Batch Clean TXT Files — Python Script
  
 6. Batch Clean TXT Files — EmEditor "Batch Replace Text" Function
+7. 
 *EmEditor Regular Expressions Based on Perl Language
-
-Specific Regular Expressions:
-\n\s*\n → \n (matches empty lines)
-^Guiding Case No\..*?\n → Leave blank (removes "Guiding Case No." title lines, though only one occurrence per document can be removed)
-^.*\(c\)Pkulaw.*\r?\n → Leave blank (matches copyright lines containing "(c)Pkulaw" with cross-platform line break compatibility)
-^.*Pkulaw Express.*\r?\n → Leave blank (matches lines containing "Pkulaw Express")
-^.*Scan QR Code.*\r?\n → Leave blank (matches lines containing "Scan QR Code")
-^.*Original Link:.*\r?\n → Leave blank (matches lines containing "Original Link:")
-^.*\[CLI Code\].*\r?\n → Leave blank (matches lines containing "[CLI Code]")
-^\d+/\d+\r?\n → Leave blank (matches page number lines like "1/2")
-^Saved on: \d{2}/\d{2}/\d{4}\r?\n? → Leave blank (matches date lines like "Saved on: 11/11/2024")
 
 Instructions:
 Fill in the search-and-replace fields on the left panel.
