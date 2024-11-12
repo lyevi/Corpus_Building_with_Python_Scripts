@@ -42,3 +42,23 @@ This corpus consists of 4 English translations of guiding cases from Mainland Ch
 
 - **Analyze Function**:
   - Generates a "Statistics" folder, including comparison charts and statistical data that contrast the linguistic features across 6 dimensions for Mainland China's leading cases and Biber's oral and written genres.
+
+# 7. Preliminary Results of MAT_output
+
+### Dimension 1 - Involvement vs. Informational
+- **Result**:The MAT output for leading cases in mainland China has the lowest score, with a negative value, closely aligning it with official documents.
+
+### Dimension 2 - Narrative vs. Non-Narrative
+- **Result**: MAT_output scores negatively, close to the style of conversations.
+
+### Dimension 3 - Explicit vs. Situation-Dependent Reference
+- **Result**: MAT_output ranks the highest with a positive score, similar to official documents.
+
+### Dimension 4 - Expression of Persuasion
+- **Result**: MAT_output scores negatively, similar to press reportage.
+
+### Dimension 5 - Abstract vs. Non-Abstract Information
+- **Result**: MAT_output scores positively, resembling press reportage.
+
+### Dimension 6 - On-Line Informational Elaboration
+- **Result**: MAT_output scores negatively, aligning closely with official documents.
